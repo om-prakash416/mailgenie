@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pymongo
+python-dotenv
+google-generativeai
+twilio
+google-auth
+google-auth-oauthlib
+google-auth-httplib2
+google-api-python-client
